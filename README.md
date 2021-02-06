@@ -1,4 +1,4 @@
-### Bonjour! 
+### Bonjour! 👋
 
 I'm a data scientist with background in digital media advertising, grown in several agencies and at Google. Entrepreneurial-minded, I like to dive deep and solve problems. 
 
